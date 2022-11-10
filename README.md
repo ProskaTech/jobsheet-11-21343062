@@ -1,5 +1,6 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+## 21343062-Nesa Athallah Ramde Pikuang.
+JobSheet 11 membahas Inheritance dan Encapsulation. 
+
+•Inherintance (pewarisan) : proses pewarisan data dan method kepada class lainnya (class anak) dengan menggunakan kata kunci "extands" dan untuk mengakses properti dari class induk menggunakan kata kunci "super". Class yang mewariskan disebut dengan class induk/class super/class dasar,sedangkan class yang mewarisi disebut class anak/subclass/class turunan. 
+
+•Encapsulation (pembungkusan) : proses penyatuan data dan method untuk menjaga agar program tidak dapat diakses sembarangan. Hal yang mendasar dalam Encapsulation ini adalah information hiding dan interface to access data.
